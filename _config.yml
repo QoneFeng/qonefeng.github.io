@@ -1,50 +1,55 @@
 # Build settings
-markdown: redcarpet
+markdown: kramdown #默认使用kramdown
 highlighter: pygments
 
 # Site settings
-title: "Mediator"
-description: > # this means to ignore newlines until "email:"
-   A Jekyll theme - Medium inspired
+title: "Qone.Feng Blog"
+description: 冯小强(Qone)目前就职于职友集jobui.com移动产品经理；略懂前端，了解后端；做个产品，P过图片；金牛双子座（感性与理性的结合体）；我不帅，我不富，我也不高，但我有上进心，有主见，我会做饭，会煲汤
 
-email: a-mail@mail.mail
+email: fengxiaoqiang.qone@gmail.com
 #blog logo
-logo: "/assets/images/df_logo.jpg"
+logo: "/assets/images/feng.jpg"
 # blog cover
-cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
+cover: "/assets/images/background_image.jpg"
 
-name: 'Dirk Fabisch'
-author: 'Dirk Fabisch'
-author_image: "/assets/images/author.jpg"
+name: 'Qone.Feng'
+author: 'Qone.Feng'
+author_image: "/assets/images/qone_logo.jpg"
 
 paginate:	5
 
-url: "http://myblog.***.***" # the base hostname & protocol for your site
+url: "http://fengxiaoqiang.com" # the base hostname & protocol for your site
 baseurl: ""
 
 # social icons and sharing options
 social:
-  - icon:	twitter
-    url:	https://twitter.com/dirkfabisch
-    desc: Follow me on twitter
-    share_url: http://twitter.com/share
-    share_title: ?text=
-    share_link: "&amp;url="
-
-#  - icon:	facebook
-#    url:	https://facebook.com/???
-#    desc: Connect with me facebook
-#    share_url: //www.facebook.com/sharer.php
-#    share_title: ?t=
-#    share_link: "&amp;u="
-
   - icon:	github
-    url:	https://github.com/dirkfabisch
+    url:	https://github.com/qonefeng
     desc:	Fork me on github
     share_url:
     share_title:
     share_link:
 
+  - icon: Weibo
+    url:  http://weibo.com/qone
+    desc: 欢迎关注我的微博
+    share_url: 
+    share_title: 
+    share_link: 
+
+#  - icon:  twitter
+#    url: https://twitter.com/dirkfabisch
+#    desc: Follow me on twitter
+#    share_url: http://twitter.com/share
+#    share_title: ?text=
+#    share_link: "&amp;url="
+
+#  - icon:  facebook
+#    url: https://facebook.com/???
+#    desc: Connect with me facebook
+#    share_url: //www.facebook.com/sharer.php
+#    share_title: ?t=
+#    share_link: "&amp;u="
 #  - icon:	google-plus
 #    url:	https://google.com/???
 #    desc:	Add me on google+
