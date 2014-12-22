@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 mediator
 ========
 
@@ -77,3 +78,9 @@ Licensing
 Contact
 -------
 I'd love to hear from you at [@dirkfabisch](https://twitter.com/dirkfabisch). Feel free to open issues if you run into trouble or have suggestions. Pull Requests always welcome.
+=======
+qonefeng.github.io
+==================
+
+个人博客
+>>>>>>> FETCH_HEAD
