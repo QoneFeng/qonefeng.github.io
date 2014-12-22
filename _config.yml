@@ -3,7 +3,7 @@ markdown: kramdown #默认使用kramdown
 highlighter: pygments
 
 # Site settings
-title: "Qone.Feng Blog"
+title: "Qone.Feng"
 description: 我不帅，我不富，我也不高，但我有上进心，有主见，我会做饭，会煲汤
 
 
