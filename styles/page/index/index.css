@@ -1,0 +1,33 @@
+@charset "utf-8";
+/**
+ * common start
+ */
+body {font: 12px / 1.125 "微软雅黑",Arial, Helvetica, sans-serif;background: #000 url(images/bg.gif);color: #C1C1C1;}
+.fl {float: left;}
+.fr {float: right;}
+.dn, .sta {display: none;}
+/**
+ * 顶部导航
+ */
+.header {margin-bottom: 10px;width: 100%;height: 20px;padding: 5px 0;text-align: center;background: #232323;}
+/**
+ * 主内容区
+ */
+.main {width: 1120px;margin: 20px auto 0;background-color: #232323;border-width: 1px;border-style: solid;zoom: 1;line-height: 30px;padding: 15px 20px 13px;font-size: 12px;-moz-border-radius: 3px;border-color: #383838;-webkit-border-radius: 3px;font-size: 18px;overflow: auto;}
+.basicInfo {clear: both;}
+.enName {font-weight: bold;font-family: "Frijole", serif;font-size: 60px;line-height: 60px;margin-bottom: 20px;}
+.zhName {margin-left: 10px;font-size: 20px;}
+.email,.baicai{color: #C1C1C1;}
+a.baicai:hover,a.baicai:active,a.email:hover,a.email:active {color: #5C6976;}
+a.baicai:visited,a.email:visited {color: #C1C1C1;}
+.avatar {float: right;}
+.weibo{ margin:20px 0;}
+.alipay{}
+/**
+ * 底部
+ */
+.footer {width: 1120px;margin: 20px auto 0;padding: 20px 20px 10px 20px;background-color: rgba(0, 0, 0, 0.5);}
+.footer a {color: #5C6976;}
+.footer h2 {padding: 0 0 5px;color: #595959;}
+.footer .friendLink {margin-bottom: 10px;}
+.footer .copyright {}

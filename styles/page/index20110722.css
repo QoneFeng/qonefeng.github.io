@@ -1,0 +1,80 @@
+* { font: 13px/1.5 Helvetica Neue, Arial, Helvetica, 'Liberation Sans', '微软雅黑', FreeSans, sans-serif; }
+body { background-image:url(../images/index/bg.png); background-repeat: repeat-x; background-color: #c0deed; }
+a { color:#0084B4; }
+.all { position: relative; text-align: center; width: 100%; z-index: 1; }
+.top_stuff { left: 0; position: fixed; top: 0; width: 100%; z-index: 12; background-image: url(../images/index/top-bg.png); background-repeat: repeat-x; height:40px; }
+.TS_bar { margin: 0 auto; max-width: 1120px; min-width: 1000px; text-align: left; }
+.TS_bar .TSB_inside { margin: 0 40px; max-width: 1040px; min-width: 920px; position: relative; }
+.TS_bar ul li a { color: #BABABA; display: block; font-weight: normal; padding: 10px; }
+.TS_bar ul li a:hover { text-decoration: none; color:#FFF; }
+.TSB_logo { height:40px; overflow:hidden; }
+.TSB_logo a { font-size:24px; color: #FFFFFF; font-size: 24px; font-weight: bold; margin: 5px 10px 0; }
+.TSB_logo a:hover { text-decoration: none; }
+.TSBI_static_links { }
+.TSBI_search_form { float: left; margin: 6px 0 0; opacity: 1; position: relative; }
+.TSBI_search_form span.glass { cursor: pointer; display: block; padding: 7px 8px 5px; position: absolute; right: 0; }
+.TSBI_search_form span.glass i { background-position: -224px -112px; }
+.TSBI_search_form input.query { -moz-border-radius: 4px 4px 4px 4px; -moz-box-shadow: 0 1px 0 #444444; background: none repeat scroll 0 0 #666666; border: 1px solid black; color: #CCCCCC; font: 13px Arial, sans-serif; padding: 6px 25px 4px 6px; width: 215px; }
+.TSBI_search_form input.query:focus, .TSBI_search_form input.focused { outline:none; background:#eee; color:#333; text-shadow:0 1px 0 #fff; border:1px solid #eee; -webkit-box-shadow:0 0 3px #000; -moz-box-shadow:0 0 3px #000; }
+.TSB_nav { margin-left: 8px; }
+.TSB_nav ul li { float: left; margin: 0; padding: 0; }
+.TSB_nav li:first-child a { border-left: medium none; }
+.TSB_nav .active a { background: none repeat scroll 0 0 rgba(0, 0, 0, 0.7); color: #FFFFFF; font-weight: bold; }
+.TSB_nav .new a { background-image:url(../images/index/light.png); background-position: center bottom; background-repeat: no-repeat; }
+.TSB_nav ul li a { display: block; padding: 10px; margin-right: 1px; outline: medium none; }
+.TSBI_active_links { min-width: 150px; position: absolute; right: 0; top: 8px; }
+.main { margin: 0 auto; max-width: 1120px; min-width: 1000px; padding-top: 60px; }
+.content { background-color:#ddeef6; border-radius: 5px 5px 5px 5px; margin: 0 40px; max-width: 1040px; min-width: 1000px; overflow: hidden; position: relative; text-align: left; z-index: 1; }
+.content_left { background: none repeat scroll 0 0 #FFF; border-radius: 5px 5px 5px 5px; box-shadow: 0 3px 4px rgba(0, 0, 0, 0.5); display: inline-block; height: 100%; min-height: 1000px; position: relative; width: 700px; z-index: 4; }
+.CL_header { max-height: 250px; min-height: 224px; }
+.inputarea_box { color: #999999; font: bold 18px Helvetica Neue, Helvetica, sans-serif; margin: 0 0 6px; text-shadow: 0 1px 0 #FFFFFF; }
+.inputarea_box_title { overflow: hidden; padding: 1px 0; }
+.text_area { margin-bottom: 10px; position: relative; }
+.inputarea_box textarea { resize: vertical; }
+.inputarea_box .inputarea_box_textarea_editor { border: 1px solid #CCCCCC; width: 640px; border-radius: 4px 4px 4px 4px; box-shadow: 0 1px #FFFFFF; color: #222222; font: 14px/18px "Helvetica Neue", Arial, sans-serif; height: 56px; outline: medium none; overflow-x: hidden; overflow-y: auto; padding: 8px; white-space: pre-wrap; word-wrap: break-word; }
+.CLH_img { border: 1px solid #CCC; border-radius: 3px 3px 3px 3px; display: block; height: 180px; width: 180px; overflow: hidden; padding: 1px; }
+.CLH_about { display: inline-block; margin-left: 20px; width: 367px; color: #444; }
+.CLHA_name h2 { font-size: 30px; font-weight: bold; line-height: 36px; margin: 0; padding: 0; }
+.CLHA_bio { color: #777; font-family: Georgia, serif; font-size: 14px; font-style: italic; line-height: 18px; }
+.CLHA_blog a { color: #0084B4; font-style: italic; font-weight: bold; }
+.CL_title { border-bottom: 1px solid #EEEEEE; clear: both; display: block; height: 30px; list-style-type: none; margin: 0; padding: 0 10px; }
+.CL_title_text { -moz-border-bottom-colors: none; -moz-border-image: none; -moz-border-left-colors: none; -moz-border-right-colors: none; -moz-border-top-colors: none; background: none repeat scroll 0 0 #FFF; border-color: #EEEEEE #EEEEEE #FFFFFF; border-radius: 4px; border-style: solid; border-width: 1px; color: #333333; cursor: pointer; display: block; font-weight: bold; line-height: 24px; margin: 0; outline: medium none; overflow: hidden; padding: 4px 10px 1px; position: relative; text-decoration: none; text-shadow: 0 1px 0 #FFFFFF; min-width:50px; max-width:80px; overflow:hidden; text-align:center; }
+.CLT_weibo_info { }
+.CLT_weibo_info li { border-bottom:1px dashed #CCC; margin: 0 0 12px; padding: 0 0 14px; clear: both; width: 100%; overflow: hidden; zoom: 1; }
+.CLTW_feed { float:right; width: 100%; }
+.CLTW_feed .sms { font-size:14px; padding-bottom: 6px; line-height: 22px; }
+.CLTW_feed .source { clear: both; width: 100%; overflow: hidden; padding: 5px 0 0; }
+.CLTW_feed .source a { color:#0084B4; }
+.CLTW_feed .feed_preview { clear:both; }
+.CLT_weibo_info .prev { }
+.CLT_weibo_info .next { }
+.CLT_blog_info { }
+.CLT_blog_info ul { }
+.CLT_blog_info li { line-height:25px; float:left; margin-right:12px; padding-left:10px; width: 295px; overflow:hidden; }
+.content_right { border-top-right-radius: 5px; max-width: 340px; min-width: 300px; overflow: hidden; padding: 12px 20px; position: relative; }
+.CR_clearfix { text-align:center; padding-top: 10px; }
+.CRC_title, .CRC_title a { font-size:16px; color:#777; }
+.CR_userinfo { }
+.CR_userinfo .user_head { margin: 0 0 18px 60px; overflow: auto; }
+.user_pic { margin-right: 10px; border: 1px solid #FFF; }
+.user_pic img { display: block; height: 50px; width: 50px; }
+.CR_userinfo .user_head p { overflow: hidden; padding: 3px 0 5px; white-space: nowrap; width: 112px; }
+.CR_userinfo .user_head p.Q_font_14 { white-space: normal; word-wrap: break-word; }
+.CR_userinfo .user_head p.Q_font_14 a { text-decoration:none; }
+.CRC_stats { display: inline-block; }
+.CRC_stats li { border-right: 1px solid #CCC; float: left; margin-left: 0; overflow: hidden; padding: 0 12px; margin: 0; }
+.CRC_stats li:first-child { border-left: 0 none; padding-left: 1px; }
+.CRC_stats li:last-child { border-right-width: 0; }
+.CRC_stats_num { display: block; color:#0084B4; font-size: 30px; font-weight: bold; line-height: 1; }
+.CRC_stats_stat { clear: both; display: block; font-size: 14px; font-weight: normal; padding: 3px 0; color: #333; }
+.CRC_weibo_button, .CRC_web_friend { display: inline-block; }
+.CRC_weibo_button li { float: left; width:48px; height:48px; padding: 0 5px; overflow: hidden; }
+.CRC_weibo_button li:first-child { padding-left: 0px; }
+.CRC_weibo_button li:last-child { padding-right: 0px; }
+.CRC_web_friend li { float: left; line-height: 14px; padding: 3px 3px 5px 4px; text-align: center; width: 52px; }
+.CRC_web_friend img { display: block; border: 1px solid #CCC; background: white; width: 50px; height: 50px; }
+.CRC_web_friend li .name { height: 20px; line-height: 20px; overflow: hidden; width: 50px; }
+.bottom { margin: 20px 40px 0; padding: 20px 20px 5px; background:none repeat scroll 0 0 #DDEEF6; border-radius: 5px 5px 0 0; }
+.bottom_link { }
+.bottom_link ul { }
+.bottom_link li { float: left; line-height: 25px; margin-right: 10px; overflow: hidden; width: 100px; }

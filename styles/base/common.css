@@ -1,0 +1,45 @@
+@charset "utf-8";
+/* 公用CSS */
+a { color: #0033CC; text-decoration: none; }
+a:active { color: #FF0000; }
+a:hover { text-decoration:underline; }
+.dashed { border-bottom: 1px dashed #CCC; margin: 10px 0; clear:both; }
+.Q_left { float:left; }
+.Q_right { float:right; }
+.Q_mt10 { margin-top:10px; }
+.Q_ml10 { margin-left:10px; }
+.Q_mr10 { margin-right:10px; }
+.Q_mb10 { margin-bottom:10px; }
+.Q_m10 { margin:10px; }
+.Q_mt5 { margin-top:5px; }
+.Q_ml5 { margin-left:5px; }
+.Q_mr5 { margin-right:5px; }
+.Q_mb5 { margin-bottom:5px; }
+.Q_m5 { margin:5px; }
+.Q_pt5 { padding-top:5px; }
+.Q_pl5 { padding-left:5px; }
+.Q_pr5 { padding-right:5px; }
+.Q_pb5 { padding-bottom:5px; }
+.Q_p5 { padding:5px; }
+.Q_pt10 { padding-top:10px; }
+.Q_pl10 { padding-left:10px; }
+.Q_pr10 { padding-right:10px; }
+.Q_pb10 { padding-bottom:10px; }
+.Q_p10 { padding:10px; }
+.Q_pt20 { padding-top:20px; }
+.Q_pl20 { padding-left:20px; }
+.Q_pr20 { padding-right:20px; }
+.Q_pb20 { padding-bottom:20px; }
+.Q_p20 { padding:20px; }
+.Q_weiboIco a { background: url(../images/followICO.png) no-repeat scroll 0 0 transparent; float: left; height: 48px; overflow: hidden; width: 48px; }
+i.Q_ico_14x14 { background: url("../images/index/sprite-icons.png") repeat scroll -224px -112px transparent; display: block; font-size: 0; height: 14px; width: 14px; }
+.Q_weiboIco .facebook { background-position: 0 0; }
+.Q_weiboIco .twitter { background-position:-53px 0; }
+.Q_weiboIco .sina { background-position: -106px 0; }
+.Q_weiboIco .qq { background-position: -159px 0; }
+.Q_weiboIco .feed { background-position: -212px 0; }
+.Q_clear { clear:both }
+.Q_font_14 { font-size: 14px; }
+.Q_hd, Q_sta { display:none }
+.weibo_widget_hovercard_card { z-index:10; }
+.weibo_widget_btn_dis { line-height: 0 !important; }

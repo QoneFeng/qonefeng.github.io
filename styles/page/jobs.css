@@ -1,0 +1,50 @@
+* { font: 13px/1.5 Helvetica Neue, Arial, Helvetica, 'Liberation Sans', '微软雅黑', FreeSans, sans-serif; }
+body { background-image:url(../images/index/bg.png); background-repeat: repeat-x; background-color: #c0deed; }
+a { color:#0084B4; }
+.all { position: relative; text-align: center; width: 100%; z-index: 1; }
+.top_stuff { left: 0; position: fixed; top: 0; width: 100%; z-index: 12; background-image: url(../images/index/top-bg.png); background-repeat: repeat-x; height:40px; }
+.TS_bar { margin: 0 auto; max-width: 1120px; min-width: 1000px; text-align: left; }
+.TS_bar .TSB_inside { margin: 0 40px; max-width: 1040px; min-width: 920px; position: relative; }
+.TS_bar ul li a { color: #BABABA; display: block; font-weight: normal; padding: 10px; }
+.TS_bar ul li a:hover { text-decoration: none; color:#FFF; }
+.TSB_logo { height:40px; overflow:hidden; }
+.TSB_logo a { font-size:24px; color: #FFFFFF; font-size: 24px; font-weight: bold; margin: 5px 10px 0; }
+.TSB_logo a:hover { text-decoration: none; }
+.TSBI_static_links { }
+.TSBI_search_form { float: left; margin: 6px 0 0; opacity: 1; position: relative; }
+.TSBI_search_form span.glass { cursor: pointer; display: block; padding: 7px 8px 5px; position: absolute; right: 0; }
+.TSBI_search_form span.glass i { background-position: -224px -112px; }
+.TSBI_search_form input.query { -moz-border-radius: 4px 4px 4px 4px; -moz-box-shadow: 0 1px 0 #444444; background: none repeat scroll 0 0 #666666; border: 1px solid black; color: #CCCCCC; font: 13px Arial, sans-serif; padding: 6px 25px 4px 6px; width: 215px; }
+.TSBI_search_form input.query:focus, .TSBI_search_form input.focused { outline:none; background:#eee; color:#333; text-shadow:0 1px 0 #fff; border:1px solid #eee; -webkit-box-shadow:0 0 3px #000; -moz-box-shadow:0 0 3px #000; }
+.TSB_nav { margin-left: 8px; }
+.TSB_nav ul li { float: left; margin: 0; padding: 0; }
+.TSB_nav li:first-child a { border-left: medium none; }
+.TSB_nav .active a { background: none repeat scroll 0 0 rgba(0, 0, 0, 0.7); color: #FFFFFF; font-weight: bold; }
+.TSB_nav .new a { background-image:url(../images/index/light.png); background-position: center bottom; background-repeat: no-repeat; }
+.TSB_nav ul li a { display: block; padding: 10px; margin-right: 1px; outline: medium none; }
+.TSBI_active_links { min-width: 150px; position: absolute; right: 0; top: 8px; }
+.main { margin: 0 auto; max-width: 1120px; min-width: 1000px; padding-top: 60px; }
+.content { background-color:#ddeef6; border-radius: 5px 5px 5px 5px; margin: 0 40px; max-width: 1040px; min-width: 1000px; overflow: hidden; position: relative; text-align: left; z-index: 1; }
+.content_left { background: none repeat scroll 0 0 #FFF; border-radius: 5px 5px 5px 5px; box-shadow: 0 3px 4px rgba(0, 0, 0, 0.5); display: inline-block; height: 100%; min-height: 1000px; position: relative; width: 700px; z-index: 4; }
+.baicai_about { }
+.baicai_about .title { font-size:20px; font-weight:bold; margin-bottom:10px; }
+.baicai_about .email { font-size: 14px; font-weight: bold; margin: 5px 0; }
+.CL_job_name { background-color: #E2E2E2; font-size: 18px; font-weight: bold; padding: 10px; }
+.CL_job_description { font-size: 16px; font-weight:bold; margin: 5px 0; color:#535353; line-height: 1.5; }
+.CL_job_skills { padding-left: 25px; font-size: 14px; }
+.content_right { border-top-right-radius: 5px; max-width: 340px; min-width: 300px; overflow: hidden; padding: 12px 20px; position: relative; }
+.CR_clearfix { text-align:left; padding-top: 10px; }
+.CRC_title, .CRC_title a { font-size:16px; color:#777; }
+.CRC_weibo_button, .CRC_web_friend { display: inline-block; }
+.CRC_weibo_button li { float: left; width:48px; height:48px; padding: 0 5px; overflow: hidden; }
+.CRC_weibo_button li:first-child { padding-left: 0px; }
+.CRC_weibo_button li:last-child { padding-right: 0px; }
+.job_list { display: inline-block; text-align:left; }
+.job_list li { margin-bottom: 5px; text-align: left; }
+.CRC_web_friend li { float: left; line-height: 14px; padding: 3px 3px 5px 4px; text-align: center; width: 52px; }
+.CRC_web_friend img { display: block; border: 1px solid #CCC; background: white; width: 50px; height: 50px; }
+.CRC_web_friend li .name { height: 20px; line-height: 20px; overflow: hidden; width: 50px; }
+.bottom { margin: 20px 40px 0; padding: 20px 20px 5px; background:none repeat scroll 0 0 rgba(221, 238, 246, 0.9); border-radius: 5px 5px 0 0; }
+.bottom_link { }
+.bottom_link ul { }
+.bottom_link li { float: left; line-height: 25px; margin-right: 10px; overflow: hidden; width: 80px; }
