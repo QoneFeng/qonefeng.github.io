@@ -1,4 +1,12 @@
-#2014年个人总结
+
+---
+layout: post
+title:  "2014年个人总结"
+date:   2015-01-01 00:00:00
+categories: Qone update
+tags: 
+image: /assets/article_images/2015-01-01-2014-summarize/desktop.jpg
+---
 2014年过去了，相比失去的东西，这一年收获很多，学会了很多东西。
 
 在2013的个人总结中，我的主题是「蜕变」是说我在2014年会是一个痛苦的成长过程，回想过去这一年，自己确实这样。
