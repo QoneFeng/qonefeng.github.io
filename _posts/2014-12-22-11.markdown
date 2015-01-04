@@ -8,32 +8,65 @@ image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.jpg
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve --watch`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+##2014年，永别了~~~
+2014年过去了，相比失去的东西，这一年收获很多，学会了很多东西。
 
-Jekyll also offers powerful support for code snippets:
+在2013的个人总结中，我的主题是「蜕变」是说我在2014年会是一个痛苦的成长过程，回想过去这一年，自己确实这样。
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+从一个技术岗位转变到产品岗位，这里面涉及到太多东西了，而在这一年了无论工作还是生活上的都是一个蜕变痛苦的过程。不知道是不是过去几年透支了激情，在这一年里感觉各方面都不顺心，激情慢慢的淡下来，对一切的思考变的消极，从而影响了很多东西。
 
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
+当自己知道变的消极或许是一件好事，因为明白这是需要去改变，不能再这样下去，所以我要调整，找回最初的自己。
 
-{% highlight js %}
+2014年，永别了~~~
 
-<footer class="site-footer">
- <a class="subscribe" href="{{ "/feed.xml" | prepend: site.baseurl }}"> <span class="tooltip"> <i class="fa fa-rss"></i> Subscribe!</span></a>
-  <div class="inner">a
-   <section class="copyright">All content copyright <a href="mailto:{{ site.email}}">{{ site.name }}</a> &copy; 2014 &bull; All rights reserved.</section>
-   <section class="poweredby">Made with <a href="http://jekyllrb.com"> Jekyll</a></section>
-  </div>
-</footer>
-{% endhighlight %}
+##读万卷书
+2014年看的书不算多，现在这个互联网时代，能静下心来看书的时间越来越少了，大部分都拿着手机去阅读资讯，总感觉静不下心来去看完一本书，最后导致书架的书越卖越多，却很少翻来看。
 
+###看过的书
+- **[MacTalk·人生元编程](http://www.amazon.cn/gp/product/B00ID5UV30)**：讲述技术与人文的故事，有历史，有明天，有技术，有人生。70多篇文章划分为六大主题：Mac、程序员与编程、科技与人文、人物、工具、职场。**PS：**这本书很有意思，在一些零碎时间看最好。
+- **[在难搞的日子笑出声来](http://www.amazon.cn/gp/product/B00GUENOVM)**：这算是一碗鸡汤，当在消极的心态或感觉到事事不顺的时候看很适合，能在大鹏的书中寻找到欢乐
+- **[创业时,我们在知乎聊什么?](http://www.amazon.cn/gp/product/B00H9QYZ6S)**：当初买这本书的时候并不是因为想创业，而是是因为知乎这个网站再推，里面收集了很多创业公司的知友回答，如果想创业的话，这不书是最好看一下，因为书中从各个方面帮你分析解答创业会遇到的问题。
+- **[三体](http://www.amazon.cn/gp/product/B0012ZZ1W4)**：三体很久之前就想买来看，一直拖到下半年才买，而且也是等到最近才看完第一部，非常值得推荐的科幻小说，平时不太喜欢看小说的我都觉得不错。
+- **[移动设计](http://www.amazon.cn/gp/product/B00DINCMYI/)**：这本书算是移动设计的入门指导，对于一直在做PC产品的我在2014年转向移动端有非常多的好处，特别是利用移动设备的特性去设计产品，引导，创新。
+- **[深入浅出Node.js](http://www.amazon.cn/gp/product/B00GOM5IL4)**：其实这本书在2013年就买了，但一直放在那里，等到14年上半年才翻来看，我去看的原因是我的三分钟热度玩玩Node.js，最后通过Node.js做了一个小小的项目，没有深入的去使用，工作中也很难去使用到，最后把它扔到一边了。
 
-[jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help
+###等待我看的
+- **三体2**
+- **三体3**
+- **失控**：这本书也是一直想看的，没有静下心来取看。豆瓣中的书评有提到：“这可能是90年代最重要的一本书”，并且是“少有的一年比一年卖得好的书”。书中提到并且今天正在兴起或大热的概念包括：大众智慧、云计算、物联网、虚拟现实、敏捷开发、协作、双赢、共生、共同进化、网络社区、网络经济，等等。说它是一本“预言式”的书并不为过。其中必定还隐藏着我们尚未印证或窥破的对未来的“预言”。
+- **黑客与画家**：冯大辉在豆瓣对此书的评论：四月份读的最好的一本书是 Paul Graham 的大作 《黑客与画家》(中文版)，这是一本能引发技术人思考的佳作，真正意义上的黑客精神、创业(Start-up)、编程语言，是这本技术散文集的三个主题。阮一峰的翻译很到位，很喜欢他的译文。国内做技术图书的翻译属于"高投入低回报"的工作，能埋头做事情的人越来越少了。 
+- **精子战争**
+- **趣味生活简史**
+- **心外传奇**：作者用讲故事的方式描述了心脏外科的发展，文笔流畅，内容引人入胜，可读性强。此种写作方式很值得提倡，不然科学似乎太枯燥了，其实并非如此。
+
+##创新项目冲锋号
+过去这这两年都算是一个打头阵的冲锋死士，每个负责的项目不超过三个月。
+
+###微信公众号
+> 微信公众号推出不久，就接手了职友集微信项目来做，但是微信公众号的服务并不多，能做的时期就是订阅，推送。而这一次的项目是从无到有，为接下来半年的微信推送积累很好的粉丝基础，同时将该模式复制到百才那边。
+
+###百才移动项目
+> 由于职友集移动版中的数据量不错，把这个模式复制到了百才这边，利用微信公众号、Qzone、PC自动转向等方式去推动整个百才移动版的数据。
+
+> 利用微信公众号为个人用户提供服务，刷简历、 消息提醒、查看消息、搜索职位、职位推荐
+
+> 由于百才的数据一致没太大的变化，最后把移动版的页面优化完后就放在那边让自己光合作用。
+
+###职友集职位线产品
+> 期间优化了职位搜索页的聚类展现形式，大大提高搜索体验
+
+> 针对薪酬页进行优化，优化点包括：新增饼形图展示、强化用户数据展示、用户分析数据与系统统计进行对比
+
+> 同时也优化了移动版的职位搜索、薪酬页这两个页面的数据同步PC端优化点
+
+###HR助手
+> 这是一个全新的移动APP项目，为了更好的去做好这个项目，去学习了移动APP的设计、交互细节、竞品分析等
+
+##总结
+“理想很丰满，现实跟骨感”
+
+蜕变是人生前进的一个过程.
+
+虽然很多时间我们往往都习惯生活于一个固定的模式,但是,我们的生活并不允许如此.
+
+只有经历蜕变，才能到达更好舞台，才能展现更优秀的自己。
