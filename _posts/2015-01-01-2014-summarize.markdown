@@ -60,6 +60,12 @@ image: /assets/article_images/2015-01-01-2014-summarize/desktop.jpg
 ###HR助手
 > 这是一个全新的移动APP项目，为了更好的去做好这个项目，去学习了移动APP的设计、交互细节、竞品分析等
 
+##业余技术
+- Node.js
+- mongodb
+- Swift
+- GitHub
+
 ##总结
 “理想很丰满，现实跟骨感”
 
