@@ -34,6 +34,19 @@
       }
     });
   });
+  var contentLength = '';
+  var content = '';
+  var newContent = '';
+  $('#articleContent p').each(function( index ) {
+    var $this = $(this);
+    contentLength = $this.html().length;
+    content = $this.html();
+    if(contentLength > 100){
+      newContent = content.substring(0,100);
+      $(this).html(newContent+'......')
+    }
+  });
+  
 }(jQuery));
 </script>
 
