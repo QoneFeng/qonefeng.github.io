@@ -14,9 +14,11 @@ image: /assets/article_images/2015-01-18-iPhone-6-plus/desktop.jpg
 * 2014年：这是一个多变曲折的一年，给自己换了个住的环境，从原来的单间大小的宿舍（一房一厅）搬入了70平凡的两房一厅，同时购入了很多一直想要的东西：**沙发、插件、电视剧、烤箱**……
 * 2015年：由于过去半年通过互联网金融理财赚到一些小钱，刚好一直用的手机 **三星GALAXY SII I9100** 总是失灵，最后选定了人生第一台iPhone--**iphone 6 Plus** 
 
+
 ![岂止于大 -- iPhone 6 Plus](/assets/article_images/2015-01-18-iPhone-6-plus/2.jpeg "岂止于大")
 
 ##iPhone 6 Plus初体验
+
 * 用了iPhone 6 Plus几天时间里第一感觉就是大，在我的小小手上经常怕抓不稳出~~~~(>_<)~~~~ 
 * 用上这台iPhone 6 Plus后感觉之前用的I9100弱爆了
 * Android从切换到iOS系统，怎么使用都是不习惯，经常在想返回键呢？
