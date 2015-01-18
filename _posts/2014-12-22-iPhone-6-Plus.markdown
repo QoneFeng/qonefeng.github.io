@@ -16,7 +16,9 @@ image: /assets/article_images/2015-01-18-iPhone-6-plus/desktop.jpg
 
 ##不为啥，只为过得更好
 > 岂止于大 -- iPhone 6
+
 ![Alt text](/assets/article_images/2015-01-18-iPhone-6-plus/1.jpg "碎屏")
+
 * 用了iPhone 6 Plus几天时间里第一感觉就是大，在我的小小手上经常怕抓不稳出~~~~(>_<)~~~~ 
 * 用上这台iPhone 6 Plus后感觉之前用的I9100弱爆了
 * Android从切换到iOS系统，怎么使用都是不习惯，经常在想返回键呢？
