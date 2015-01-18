@@ -15,8 +15,6 @@ image: /assets/article_images/2015-01-18-iPhone-6-plus/desktop.jpg
 * 2015年：由于过去半年通过互联网金融理财赚到一些小钱，刚好一直用的手机 **三星GALAXY SII I9100** 总是失灵，最后选定了人生第一台iPhone--**iphone 6 Plus** 
 
 ###不为啥，只为过得更好
-
-
 ![](/assets/article_images/2015-01-18-iPhone-6-plus/2.jpeg "岂止于大")
 > 岂止于大 -- iPhone 6
 
