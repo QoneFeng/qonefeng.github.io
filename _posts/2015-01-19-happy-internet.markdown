@@ -32,10 +32,24 @@ image: /assets/article_images/2015-01-19-happy-internet/desktop.jpg
 4. 这样即可愉快的上Google等被墙网站
 
 ##No.2 代理方式
-> 自由门、Shadowsocks、豆荚VPN等等
+使用代理的方法有很多，代理工具也很多种，如：自由门、Shadowsocks、豆荚VPN等等，下面以自由门+Chrome插件SwitchyOmega为例子
 
-这里以自由门+Chrome插件SwitchyOmega为例子
+**自由门的使用方法：**
+![第一次打开自由门会弹出一个“自由门代理控制”的内容选项，直接点击确定就行](/assets/article_images/2015-01-19-happy-internet/20150119215334.png)
 
+![确定后就会进入主界面，Tips：右上角中间的那个绿色按钮是最小化到系统图标](/assets/article_images/2015-01-19-happy-internet/20150119215630.png)
+
+![点击设置进入一些常规设置](/assets/article_images/2015-01-19-happy-internet/20150119214927.jpg)
+
+![链接成功的画面](/assets/article_images/2015-01-19-happy-internet/20150119215939.jpg)
+
+**Chrome插件SwitchyOmega使用说明：**
+由于SwitchySharp 的更新即将终止，并将被新项目 SwitchyOmega 取代，所以我们直接使用SwitchyOmega
+![在Chrome安装插件SwitchyOmega后点击“选项”进入设置代理](/assets/article_images/2015-01-19-happy-internet/20150119220355.png)
+
+![在SwitchyOmega设置中--选择“新建情景模式”](/assets/article_images/2015-01-19-happy-internet/20150119220643.png)
+
+![设置代理服务器，在这里填写自由门的端口](/assets/article_images/2015-01-19-happy-internet/20150119220814.png)
 
 ##No.3 IP直接访问网站
 经常使用Google的同学可以直接访问[http://74.125.71.156/](http://74.125.71.156/)
