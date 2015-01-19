@@ -10,7 +10,9 @@ image: /assets/article_images/2015-01-19-happy-internet/desktop.jpg
 **优点：**速度比较稳定，简单粗暴直接
 
 **不足：**只能对有对应Hosts的网站进行翻墙
-![使用**Hostsx**来更新hosts](/assets/article_images/2015-01-19-happy-internet/20150119212003.png)
+
+![使用Hostsx来更新hosts](/assets/article_images/2015-01-19-happy-internet/20150119212003.png)
+
 **Hostsx使用说明：**
 
 1. 选择服务器，直到线面的连接状态变成绿色的正常为止，有四个服务器可选，一般都能搞定的。
@@ -20,10 +22,9 @@ image: /assets/article_images/2015-01-19-happy-internet/desktop.jpg
 5. 功能菜单第4个，点击下载，如果不能下载，更好服务器。
 6. 更换当前host，绿色齿轮，点击直接替换，很简单吧。不用网上去搜索了。
 7. 一切搞定，最后一个按钮退出就好。
-
 ![更新下载的host](/assets/article_images/2015-01-19-happy-internet/20150119213039.gif)
 
-![更新下载的host](/assets/article_images/2015-01-19-happy-internet/20150119213759.jpg)
+![SwitchHosts](/assets/article_images/2015-01-19-happy-internet/20150119213759.jpg)
 
 **配合SwitchHosts使用**
 
