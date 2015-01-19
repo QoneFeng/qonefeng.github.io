@@ -48,6 +48,7 @@ image: /assets/article_images/2015-01-19-happy-internet/desktop.jpg
 ![链接成功的画面](/assets/article_images/2015-01-19-happy-internet/20150119215939.jpg)
 
 **Chrome插件SwitchyOmega使用说明：**
+
 由于SwitchySharp 的更新即将终止，并将被新项目 SwitchyOmega 取代，所以我们直接使用SwitchyOmega
 ![在Chrome安装插件SwitchyOmega后点击“选项”进入设置代理](/assets/article_images/2015-01-19-happy-internet/20150119220355.png)
 
@@ -56,7 +57,6 @@ image: /assets/article_images/2015-01-19-happy-internet/desktop.jpg
 ![设置代理服务器，在这里填写自由门的端口](/assets/article_images/2015-01-19-happy-internet/20150119220814.png)
 
 ![在浏览网站是需要翻墙的点击SwitchyOmega添加进去即可](/assets/article_images/2015-01-19-happy-internet/20150119221120.png)
-
 
 ##No.3 IP直接访问网站
 经常使用Google的同学可以直接访问[http://74.125.71.156/](http://74.125.71.156/)
