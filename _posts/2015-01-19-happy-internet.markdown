@@ -11,9 +11,8 @@ image: /assets/article_images/2015-01-19-happy-internet/desktop.jpg
 
 **不足：**只能对有对应Hosts的网站进行翻墙
 
-![使用Hostsx来更新hosts](/assets/article_images/2015-01-19-happy-internet/20150119212003.png)
-
 **Hostsx使用说明：**
+![使用Hostsx来更新hosts](/assets/article_images/2015-01-19-happy-internet/20150119212003.png)
 
 1. 选择服务器，直到线面的连接状态变成绿色的正常为止，有四个服务器可选，一般都能搞定的。
 2. 协议版本，这个自己看着办吧。
@@ -24,9 +23,8 @@ image: /assets/article_images/2015-01-19-happy-internet/desktop.jpg
 7. 一切搞定，最后一个按钮退出就好。
 ![更新下载的host](/assets/article_images/2015-01-19-happy-internet/20150119213039.gif)
 
-![SwitchHosts](/assets/article_images/2015-01-19-happy-internet/20150119213759.jpg)
-
 **配合SwitchHosts使用**
+![SwitchHosts](/assets/article_images/2015-01-19-happy-internet/20150119213759.jpg)
 
 1. 打开Hostsx更新下载的host文件
 2. 把内容复制出来
