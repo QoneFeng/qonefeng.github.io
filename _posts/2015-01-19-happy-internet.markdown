@@ -8,10 +8,9 @@ image: /assets/article_images/2015-01-19-happy-internet/desktop.jpg
 ---
 ##No.1 修改Hosts方法
 **优点：**速度比较稳定，简单粗暴直接
+
 **不足：**只能对有对应Hosts的网站进行翻墙
-
 ![使用**Hostsx**来更新hosts](/assets/article_images/2015-01-19-happy-internet/20150119212003.png)
-
 **Hostsx使用说明：**
 
 1. 选择服务器，直到线面的连接状态变成绿色的正常为止，有四个服务器可选，一般都能搞定的。
