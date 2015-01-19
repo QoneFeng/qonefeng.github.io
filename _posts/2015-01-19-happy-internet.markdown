@@ -32,6 +32,10 @@ image: /assets/article_images/2015-01-19-happy-internet/desktop.jpg
 4. 这样即可愉快的上Google等被墙网站
 
 ##No.2 代理方式
+**优点：**没有翻不过的强
+
+**不足：**免费的代理速度不稳定
+
 使用代理的方法有很多，代理工具也很多种，如：自由门、Shadowsocks、豆荚VPN等等，下面以自由门+Chrome插件SwitchyOmega为例子
 
 **自由门的使用方法：**
@@ -50,6 +54,9 @@ image: /assets/article_images/2015-01-19-happy-internet/desktop.jpg
 ![在SwitchyOmega设置中--选择“新建情景模式”](/assets/article_images/2015-01-19-happy-internet/20150119220643.png)
 
 ![设置代理服务器，在这里填写自由门的端口](/assets/article_images/2015-01-19-happy-internet/20150119220814.png)
+
+![在浏览网站是需要翻墙的点击SwitchyOmega添加进去即可](/assets/article_images/2015-01-19-happy-internet/20150119221120.png)
+
 
 ##No.3 IP直接访问网站
 经常使用Google的同学可以直接访问[http://74.125.71.156/](http://74.125.71.156/)
