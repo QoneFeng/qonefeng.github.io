@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://fengxiaoqiang.com</id>
     <title>木强少文</title>
-    <updated>2019-06-17T08:56:02.974Z</updated>
+    <updated>2019-06-17T09:04:51.269Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://fengxiaoqiang.com"/>
     <link rel="self" href="http://fengxiaoqiang.com/atom.xml"/>
@@ -49,17 +49,17 @@
         </link>
         <updated>2016-01-21T16:00:00.000Z</updated>
         <content type="html"><![CDATA[<p>#一个懂技术的产品经理养成记
-<img src="/assets/article_images/2016-01-22-fe-to-pm/001.jpeg" alt="一个懂技术的产品经理养成记">
-<img src="/assets/article_images/2016-01-22-fe-to-pm/002.jpeg" alt="一、能力发展过程————点线面">
-<img src="/assets/article_images/2016-01-22-fe-to-pm/003.jpeg" alt="点线面">
-<img src="/assets/article_images/2016-01-22-fe-to-pm/004.jpeg" alt="点">
-<img src="/assets/article_images/2016-01-22-fe-to-pm/005.jpeg" alt="线">
-<img src="/assets/article_images/2016-01-22-fe-to-pm/006.jpeg" alt="面">
-<img src="/assets/article_images/2016-01-22-fe-to-pm/007.jpeg" alt="二、技术与产品区别————实与虚">
-<img src="/assets/article_images/2016-01-22-fe-to-pm/008.jpeg" alt="实与虚">
-<img src="/assets/article_images/2016-01-22-fe-to-pm/009.jpeg" alt="实">
-<img src="/assets/article_images/2016-01-22-fe-to-pm/010.jpeg" alt="虚">
-<img src="/assets/article_images/2016-01-22-fe-to-pm/011.jpeg" alt="Thank"></p>
+<img src="http://fengxiaoqiang.com/post-images/2016-01-22-fe-to-pm/001.jpeg" alt="一个懂技术的产品经理养成记">
+<img src="http://fengxiaoqiang.com/post-images/2016-01-22-fe-to-pm/002.jpeg" alt="一、能力发展过程————点线面">
+<img src="http://fengxiaoqiang.com/post-images/2016-01-22-fe-to-pm/003.jpeg" alt="点线面">
+<img src="http://fengxiaoqiang.com/post-images/2016-01-22-fe-to-pm/004.jpeg" alt="点">
+<img src="http://fengxiaoqiang.com/post-images/2016-01-22-fe-to-pm/005.jpeg" alt="线">
+<img src="http://fengxiaoqiang.com/post-images/2016-01-22-fe-to-pm/006.jpeg" alt="面">
+<img src="http://fengxiaoqiang.com/post-images/2016-01-22-fe-to-pm/007.jpeg" alt="二、技术与产品区别————实与虚">
+<img src="http://fengxiaoqiang.com/post-images/2016-01-22-fe-to-pm/008.jpeg" alt="实与虚">
+<img src="http://fengxiaoqiang.com/post-images/2016-01-22-fe-to-pm/009.jpeg" alt="实">
+<img src="http://fengxiaoqiang.com/post-images/2016-01-22-fe-to-pm/010.jpeg" alt="虚">
+<img src="http://fengxiaoqiang.com/post-images/2016-01-22-fe-to-pm/011.jpeg" alt="Thank"></p>
 ]]></content>
     </entry>
     <entry>
@@ -130,7 +130,7 @@
 **优点：**速度比较稳定，简单粗暴直接</p>
 <p>**不足：**只能对有对应Hosts的网站进行翻墙</p>
 <p><strong>Hostsx使用说明：</strong>
-<img src="/assets/article_images/2015-01-19-happy-internet/20150119212003.png" alt="使用Hostsx来更新hosts"></p>
+<img src="http://fengxiaoqiang.com/post-images/2015-01-19-happy-internet/20150119212003.png" alt="使用Hostsx来更新hosts"></p>
 <ol>
 <li>选择服务器，直到线面的连接状态变成绿色的正常为止，有四个服务器可选，一般都能搞定的。</li>
 <li>协议版本，这个自己看着办吧。</li>
@@ -139,10 +139,10 @@
 <li>功能菜单第4个，点击下载，如果不能下载，更好服务器。</li>
 <li>更换当前host，绿色齿轮，点击直接替换，很简单吧。不用网上去搜索了。</li>
 <li>一切搞定，最后一个按钮退出就好。
-<img src="/assets/article_images/2015-01-19-happy-internet/20150119213039.gif" alt="更新下载的host"></li>
+<img src="http://fengxiaoqiang.com/post-images/2015-01-19-happy-internet/20150119213039.gif" alt="更新下载的host"></li>
 </ol>
 <p><strong>配合SwitchHosts使用</strong>
-<img src="/assets/article_images/2015-01-19-happy-internet/20150119213759.jpg" alt="SwitchHosts"></p>
+<img src="http://fengxiaoqiang.com/post-images/2015-01-19-happy-internet/20150119213759.jpg" alt="SwitchHosts"></p>
 <ol>
 <li>打开Hostsx更新下载的host文件</li>
 <li>把内容复制出来</li>
@@ -154,16 +154,16 @@
 <p>**不足：**免费的代理速度不稳定</p>
 <p>使用代理的方法有很多，代理工具也很多种，如：自由门、Shadowsocks、豆荚VPN等等，下面以自由门+Chrome插件SwitchyOmega为例子</p>
 <p><strong>自由门的使用方法：</strong>
-<img src="/assets/article_images/2015-01-19-happy-internet/20150119215334.png" alt="第一次打开自由门会弹出一个“自由门代理控制”的内容选项，直接点击确定就行"></p>
-<p><img src="/assets/article_images/2015-01-19-happy-internet/20150119215630.png" alt="确定后就会进入主界面，Tips：右上角中间的那个绿色按钮是最小化到系统图标"></p>
-<p><img src="/assets/article_images/2015-01-19-happy-internet/20150119214927.jpg" alt="点击设置进入一些常规设置"></p>
-<p><img src="/assets/article_images/2015-01-19-happy-internet/20150119215939.jpg" alt="链接成功的画面"></p>
+<img src="http://fengxiaoqiang.com/post-images/2015-01-19-happy-internet/20150119215334.png" alt="第一次打开自由门会弹出一个“自由门代理控制”的内容选项，直接点击确定就行"></p>
+<p><img src="http://fengxiaoqiang.com/post-images/2015-01-19-happy-internet/20150119215630.png" alt="确定后就会进入主界面，Tips：右上角中间的那个绿色按钮是最小化到系统图标"></p>
+<p><img src="http://fengxiaoqiang.com/post-images/2015-01-19-happy-internet/20150119214927.jpg" alt="点击设置进入一些常规设置"></p>
+<p><img src="http://fengxiaoqiang.com/post-images/2015-01-19-happy-internet/20150119215939.jpg" alt="链接成功的画面"></p>
 <p><strong>Chrome插件SwitchyOmega使用说明：</strong></p>
 <p>由于SwitchySharp 的更新即将终止，并将被新项目 SwitchyOmega 取代，所以我们直接使用SwitchyOmega
-<img src="/assets/article_images/2015-01-19-happy-internet/20150119220355.png" alt="在Chrome安装插件SwitchyOmega后点击“选项”进入设置代理"></p>
-<p><img src="/assets/article_images/2015-01-19-happy-internet/20150119220643.png" alt="在SwitchyOmega设置中--选择“新建情景模式”"></p>
-<p><img src="/assets/article_images/2015-01-19-happy-internet/20150119220814.png" alt="设置代理服务器，在这里填写自由门的端口"></p>
-<p><img src="/assets/article_images/2015-01-19-happy-internet/20150119221120.png" alt="在浏览网站是需要翻墙的点击SwitchyOmega添加进去即可"></p>
+<img src="http://fengxiaoqiang.com/post-images/2015-01-19-happy-internet/20150119220355.png" alt="在Chrome安装插件SwitchyOmega后点击“选项”进入设置代理"></p>
+<p><img src="http://fengxiaoqiang.com/post-images/2015-01-19-happy-internet/20150119220643.png" alt="在SwitchyOmega设置中--选择“新建情景模式”"></p>
+<p><img src="http://fengxiaoqiang.com/post-images/2015-01-19-happy-internet/20150119220814.png" alt="设置代理服务器，在这里填写自由门的端口"></p>
+<p><img src="http://fengxiaoqiang.com/post-images/2015-01-19-happy-internet/20150119221120.png" alt="在浏览网站是需要翻墙的点击SwitchyOmega添加进去即可"></p>
 <p>##No.3 IP直接访问网站
 经常使用Google的同学可以直接访问<a href="http://74.125.71.156/">http://74.125.71.156/</a></p>
 <p>##工具下载地址
@@ -185,7 +185,7 @@
 <li>2014年：这是一个多变曲折的一年，给自己换了个住的环境，从原来的单间大小的宿舍（一房一厅）搬入了70平凡的两房一厅，同时购入了很多一直想要的东西：<strong>沙发、插件、电视剧、烤箱</strong>……</li>
 <li>2015年：由于过去半年通过互联网金融理财赚到一些小钱，刚好一直用的手机 <strong>三星GALAXY SII I9100</strong> 总是失灵，最后选定了人生第一台iPhone--<strong>iphone 6 Plus</strong></li>
 </ul>
-<p><img src="/assets/article_images/2015-01-18-iPhone-6-plus/2.jpeg" alt="岂止于大 -- iPhone 6 Plus" title="岂止于大"></p>
+<p><img src="http://fengxiaoqiang.com/post-images/2015-01-18-iPhone-6-plus/2.jpeg" alt="岂止于大 -- iPhone 6 Plus" title="岂止于大"></p>
 <p>##iPhone 6 Plus初体验</p>
 <ul>
 <li>用了iPhone 6 Plus几天时间里第一感觉就是大，在我的小小手上经常怕抓不稳出~~~~(&gt;_&lt;)~~~~</li>
@@ -193,7 +193,7 @@
 <li>Android从切换到iOS系统，怎么使用都是不习惯，经常在想返回键呢？</li>
 <li>i6+的续航真的很不错，早上出门前，中途重度使用，不充电，到六七点还有30%左右的电量</li>
 </ul>
-<p><img src="/assets/article_images/2015-01-18-iPhone-6-plus/1.jpg" alt="可怜的摄像头" title="可怜的摄像头"></p>
+<p><img src="http://fengxiaoqiang.com/post-images/2015-01-18-iPhone-6-plus/1.jpg" alt="可怜的摄像头" title="可怜的摄像头"></p>
 <p>##不为啥，只为过得更好</p>
 <blockquote>
 <p>钱赚来就是为了给自己和身边的人过上更好生活，只要自己觉得用的值就行</p>
